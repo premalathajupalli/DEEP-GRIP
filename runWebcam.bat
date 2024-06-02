@@ -1,0 +1,2 @@
+python WebCamGripPrediction.py
+pause
